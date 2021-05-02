@@ -1,0 +1,9 @@
+C:\Users\SaniaGos\source\repos\Notebook\Notebook\bin\Release\Notebook.exe.config
+C:\Users\SaniaGos\source\repos\Notebook\Notebook\bin\Release\Notebook.exe
+C:\Users\SaniaGos\source\repos\Notebook\Notebook\bin\Release\Notebook.pdb
+C:\Users\SaniaGos\source\repos\Notebook\Notebook\obj\Release\Notebook.Form1.resources
+C:\Users\SaniaGos\source\repos\Notebook\Notebook\obj\Release\Notebook.Properties.Resources.resources
+C:\Users\SaniaGos\source\repos\Notebook\Notebook\obj\Release\Notebook.csproj.GenerateResource.cache
+C:\Users\SaniaGos\source\repos\Notebook\Notebook\obj\Release\Notebook.csproj.CoreCompileInputs.cache
+C:\Users\SaniaGos\source\repos\Notebook\Notebook\obj\Release\Notebook.exe
+C:\Users\SaniaGos\source\repos\Notebook\Notebook\obj\Release\Notebook.pdb
